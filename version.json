@@ -1,14 +1,6 @@
 {
-    "version": "1.0.0.0",
-    "release_date": "2025-05-24",
-    "checksum": "a3f4c8d9e2b7f1a0d5c6b8e9f2a1d4e",
-    "dependencies": {
-        ".NET": "7.0",
-        "PostgreSQL": "15.x"
-    },
-    "files": [
-        "StockVision.exe",
-        "uninstall.exe",
-        "update.exe"
-    ]
+  "version": "1.0.0.0",
+  "releaseDate": "2025-05-24",
+  "checksum": "SHA256:9f86d081884c7d...",
+  "downloadUrl": "https://github.com/Kodhex-Systems/StockVision-Releases/raw/main/bin/StockVision-v1.0.0.zip"
 }
