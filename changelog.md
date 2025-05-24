@@ -1,1 +1,1 @@
-instalador base
+instalador

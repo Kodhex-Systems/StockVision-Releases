@@ -1,7 +1,14 @@
 {
-  "version": "1.1.0",
-  "release_date": "2024-02-15",
-  "min_required": "1.0.0",
-  "checksum": "a1b2c3...",
-  "download_url": "https://github.com/tuusuario/StockVision-Releases/releases/download/v1.1.0/StockVision-v1.1.0.zip"
+    "version": "1.0.0.0",
+    "release_date": "2025-05-24",
+    "checksum": "a3f4c8d9e2b7f1a0d5c6b8e9f2a1d4e",
+    "dependencies": {
+        ".NET": "7.0",
+        "PostgreSQL": "15.x"
+    },
+    "files": [
+        "StockVision.exe",
+        "uninstall.exe",
+        "update.exe"
+    ]
 }
