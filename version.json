@@ -1,6 +1,7 @@
 {
   "version": "1.0.0.0",
-  "releaseDate": "2025-05-24",
-  "checksum": "SHA256:9f86d081884c7d...",
-  "downloadUrl": "https://github.com/Kodhex-Systems/StockVision-Releases/raw/main/bin/StockVision-v1.0.0.zip"
+  "release_date": "2025-05-24",
+  "download_url": "https://github.com/Kodhex-Systems/StockVision-Releases/raw/main/bin/StockVision-v1.0.0.0.zip",
+  "checksum": "a1b2c3d4e5f6...",
+  "min_required_framework": "4.7"
 }
