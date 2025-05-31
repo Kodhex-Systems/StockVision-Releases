@@ -1,5 +1,6 @@
 {
   "version": "1.0.0.1",
   "release_date": "2025-05-24",
-  "min_required_framework": "4.7"
+  "min_required_framework": "4.7",
+  "ignore_files": []
 }
